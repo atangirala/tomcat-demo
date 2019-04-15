@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Hello World by Avinash Tangirala!</title>
+<title>This is Blue Env Deployed.</title>
 </head>
 <body>
 	<h1>Hello World by Avinash.T!</h1>
